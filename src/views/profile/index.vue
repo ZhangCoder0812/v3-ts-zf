@@ -1,8 +1,8 @@
 <template>
-  <div>profile</div>
+    <div>profile</div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 export default defineComponent({});
-</script>  
+</script>

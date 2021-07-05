@@ -1,5 +1,7 @@
 <template>
-    <div>mine</div>
+    <div>
+   
+    </div>
 </template>
 
 <script lang="ts">
